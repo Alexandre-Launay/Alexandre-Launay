@@ -16,7 +16,7 @@
 <br>
 <br> 
 
-- Je vais débuter une formation développeur integrateur web
+- Actuellement en formation au seins de l'AFPA en Developpeur Web et Web Mobile
 <br>
 <br>
 <br>
