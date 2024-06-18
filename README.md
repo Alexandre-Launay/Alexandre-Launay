@@ -16,7 +16,7 @@
 <br>
 <br> 
 
-- Actuellement en formation au seins de l'AFPA en Developpeur Web et Web Mobile
+- Actuellement en formation au sein de l'AFPA en Developpeur Web et Web Mobile
 <br>
 <br>
 <br>
