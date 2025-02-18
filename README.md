@@ -35,7 +35,6 @@
     ![javascript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
     ![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
     ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-
   
 - 🎨 **Front-End**
 
@@ -44,7 +43,7 @@
    ![Bootstrap](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
 
 - 🎨 **Back-End** 
-   ![Laravel](https://img.shields.io/badge/Laravel-2e2e2e??style=for-the-badge&logo=laravel&logoColor=white)
+   ![Laravel](https://img.shields.io/badge/Laravel-2e2e2e?style=for-the-badge&logo=laravel&logoColor=white)
    ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
    ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
   
